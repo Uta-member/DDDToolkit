@@ -9,6 +9,8 @@
     <Description>DDDで開発を行う際に便利なクラスのライブラリ。</Description>
     <Authors>UtaSugane</Authors>
     <PackageTags>csharp;ddd;</PackageTags>
+    <PackageProjectUrl>https://github.com/Uta-member/DDDToolkit</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Uta-member/DDDToolkit</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
