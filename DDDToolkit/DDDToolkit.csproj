@@ -11,6 +11,14 @@
     <PackageTags>csharp;ddd;</PackageTags>
     <PackageProjectUrl>https://github.com/Uta-member/DDDToolkit</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Uta-member/DDDToolkit</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
