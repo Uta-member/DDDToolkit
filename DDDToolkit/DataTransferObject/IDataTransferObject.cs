@@ -1,4 +1,4 @@
-﻿namespace DDDToolkit.DataTransferObject
+﻿namespace DDDToolkit
 {
     /// <summary>
     /// DTOのインターフェース

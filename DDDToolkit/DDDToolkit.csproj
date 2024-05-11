@@ -12,7 +12,8 @@
     <PackageProjectUrl>https://github.com/Uta-member/DDDToolkit</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Uta-member/DDDToolkit</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageId>$(AssemblyName)UtaMember</PackageId>
+    <PackageId>Americ.$(AssemblyName)</PackageId>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>

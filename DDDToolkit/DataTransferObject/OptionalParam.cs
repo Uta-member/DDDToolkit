@@ -1,6 +1,4 @@
-﻿using DDDToolkit.DomainModel;
-
-namespace DDDToolkit.DataTransferObject
+﻿namespace DDDToolkit
 {
     /// <summary>
     /// 更新時の値の更新要否を表すクラス

@@ -1,4 +1,4 @@
-﻿namespace DDDToolkit.DomainModel
+﻿namespace DDDToolkit
 {
     /// <summary>
     /// 値オブジェクトの基底クラス

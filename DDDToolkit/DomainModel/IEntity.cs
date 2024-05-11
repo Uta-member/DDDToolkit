@@ -1,4 +1,4 @@
-﻿namespace DDDToolkit.DomainModel
+﻿namespace DDDToolkit
 {
     /// <summary>
     /// エンティティインターフェース

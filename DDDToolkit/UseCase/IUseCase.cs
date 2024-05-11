@@ -1,4 +1,4 @@
-﻿namespace DDDToolkit.UseCase
+﻿namespace DDDToolkit
 {
     public interface IUseCase
     {

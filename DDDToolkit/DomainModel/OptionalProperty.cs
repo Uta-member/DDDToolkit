@@ -1,4 +1,4 @@
-﻿namespace DDDToolkit.DomainModel
+﻿namespace DDDToolkit
 {
     /// <summary>
     /// 値が存在しない可能性があるプロパティをNullにしないためのクラス。IsNoneがtrueの場合は値がない状態。
